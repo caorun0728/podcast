@@ -40,6 +40,31 @@ http://podcast.caorun.net/photo/cr001.jpg
 <!--
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
+
+
+<item>
+
+<title>第二期：游梦街宣传片</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>给你们一个世界，给自己一个测试！</itunes:subtitle>
+
+<itunes:summary>很早之前的视频，作为片头，也作为宣传片！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://xiazai.u.qiniudn.com/caorunnet.mp4" length="8727310" type="video/mp4" />
+
+<guid>http://xiazai.u.qiniudn.com/caorunnet.mp4</guid>
+
+<pubDate>Sun, 25 May 2014 12:00:00 GMT+8.00</pubDate>
+
+<itunes:duration>0:14</itunes:duration>
+
+</item>
+
+
 <item>
 <title>第一期：青春的起点</title>
 <pubDate>Fri, 15 Nov 2013 05:03:35 +0000</pubDate>
