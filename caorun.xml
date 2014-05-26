@@ -40,7 +40,36 @@ http://podcast.caorun.net/photo/cr001.jpg
 <!--
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
+<item>
+<title>《风水传》第一集</title>
 
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>小说《风水传》有声读物，第一集由小小鸟播音！</itunes:subtitle>
+
+<itunes:summary>小说《风水传》有声读物，第一集由小小鸟播音！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<enclosure url="http://xiazai.u.qiniudn.com/1集.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid isPermaLink="false">http://xiazai.u.qiniudn.com/1集.mp3</guid>
+
+<pubDate>Mon, May 2014 12:00:00 +0800</pubDate>
+
+<itunes:duration>00:20:55</itunes:duration>
+
+<description><![CDATA[
+小说《风水传》有声读物，第一集由小小鸟播音！
+]]></description>
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>no</itunes:explicit>
+
+</item>
 
 <item>
 
@@ -58,9 +87,9 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 
 <guid>http://xiazai.u.qiniudn.com/caorunnet.mp4</guid>
 
-<pubDate>Sun, 25 May 2014 12:00:00 GMT+8.00</pubDate>
+<pubDate>Sun, 25 May 2014 12:00:00 +0800</pubDate>
 
-<itunes:duration>0:14</itunes:duration>
+<itunes:duration>00:14:00</itunes:duration>
 
 </item>
 
@@ -88,7 +117,7 @@ http://podcast.caorun.net/audio/cr001.mp3
 青春的回忆@天湖-声音的精灵 微信公众账号：cao_run
 </itunes:summary>
 <itunes:author>www.caorun.net</itunes:author>
-<itunes:explicit>clean</itunes:explicit>
+<itunes:explicit>yes</itunes:explicit>
 </item>
 </channel>
 </rss>
