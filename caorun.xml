@@ -22,7 +22,7 @@
  			</itunes:category>
  			<itunes:category text="TV &amp; Film">
 <item>
-<!-- 节目信息 -->
+
 <title>第二期：游梦街宣传片(video)</title>
 
 <itunes:author>曹润</itunes:author>
@@ -68,6 +68,9 @@
 <itunes:duration>0:07:52</itunes:duration>
 
 <itunes:explicit>clean</itunes:explicit>
+
 </item>
+
 </channel>
+
 </rss>
