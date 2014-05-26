@@ -32,11 +32,11 @@ http://podcast.caorun.net/photo/cr001.jpg
 </url>
 <link>http://caorun.net</link>
 </image>
-<itunes:category text="Arts">
- 			<itunes:category text="Literature" />
-  			</itunes:category>
-			<itunes:category text="TV &amp; Film">
-
+<itunes:category text="Music" />
+<itunes:category text="Society &amp; Culture" />
+<itunes:category text="Games &amp; Hobbies">
+	<itunes:category text="Video Games" />
+</itunes:category>
 <rawvoice:location>ChengDu, China PR</rawvoice:location>
 <!--
 rawvoice:frequency>Weekly</rawvoice:frequency
