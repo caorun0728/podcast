@@ -6,7 +6,7 @@
 
 <itunes:new-feed-url>http://podcast.caorun.net/caorun.rss</itunes:new-feed-url>
 
-<title>����</title>
+<title>曹润</title>
 
 <link>http://caorun.net</link>
 
@@ -14,17 +14,17 @@
 
 <copyright>www.caorun.net</copyright>
 
-<itunes:subtitle>����</itunes:subtitle>
+<itunes:subtitle>曹润</itunes:subtitle>
 
-<itunes:author>����</itunes:author>
+<itunes:author>曹润</itunes:author>
 
-<itunes:summary>[����]������podcast�����ﶼһЩ���ĺͰ��ԣ�������caorun.net��΢�ź�(wechat)��cao_run��</itunes:summary>
+<itunes:summary>[曹润]，个人podcast，这里都一些闲聊和八卦！官网：caorun.net、微信号(wechat)：cao_run。</itunes:summary>
 
-<description>����caorun.net���ٷ����ͣ�</description>
+<description>曹润（caorun.net）官方播客！</description>
 
 <itunes:owner>
 
-<itunes:name>����(caorun.net)</itunes:name>
+<itunes:name>曹润(caorun.net)</itunes:name>
 
 <itunes:email>i@caorun.net.cn</itunes:email>
 
@@ -42,13 +42,13 @@
 
 <item>
 
-<title>�ڶ��ڣ����ν�����Ƭ(video)</title>
+<title>第二期：游梦街宣传片(video)</title>
 
-<itunes:author>����</itunes:author>
+<itunes:author>曹润</itunes:author>
 
-<itunes:subtitle>������һ�����磬���Լ�һ�����ԣ�</itunes:subtitle>
+<itunes:subtitle>给你们一个世界，给自己一个测试！</itunes:subtitle>
 
-<itunes:summary>����֮ǰ����Ƶ����ΪƬͷ��Ҳ��Ϊ����Ƭ��</itunes:summary>
+<itunes:summary>很早之前的视频，作为片头，也作为宣传片！</itunes:summary>
 
 <itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
 
@@ -65,13 +65,13 @@
 
 <item>
 
-<title>��һ�ڣ��ഺ�����</title>
+<title>第一期：青春的起点</title>
 
 <itunes:author>www.caorun.net</itunes:author>
 
-<itunes:subtitle>�ഺ�Ļ���@���-�����ľ��� ΢�Ź����˺ţ�cao_run</itunes:subtitle>
+<itunes:subtitle>青春的回忆@天湖-声音的精灵 微信公众账号：cao_run</itunes:subtitle>
 
-<itunes:summary>�ഺ�Ļ���@���-�����ľ��� ΢�Ź����˺ţ�cao_run</itunes:summary>
+<itunes:summary>青春的回忆@天湖-声音的精灵 微信公众账号：cao_run</itunes:summary>
 
 <itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
 
