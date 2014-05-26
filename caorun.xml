@@ -4,7 +4,7 @@
 <atom:link href="http://podcast.caorun.net/caorun.xml" rel="self" type="application/rss+xml"/>
 <link>http://caorun.net</link>
 <description>曹润（caorun.net）官方播客！</description>
-<lastBuildDate>Fri, 15 Nov 2013 12:49:30 +0800</lastBuildDate>
+<lastBuildDate>Mon, 26 May 2014 12:49:30 +0800</lastBuildDate>
 <language>zh-cn</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -16,15 +16,13 @@
 <itunes:explicit>clean</itunes:explicit>
 <itunes:image href="http://podcast.caorun.net/photo/cr001.jpg"/>
 <itunes:owner>
-<itunes:name>曹润(caorun.net)</itunes:name>
+<itunes:name>曹润</itunes:name>
 <itunes:email>i@caorun.net.cn</itunes:email>
 </itunes:owner>
 <managingEditor>caorun@hotmail.com (曹润)</managingEditor>
 <copyright>www.caorun.net</copyright>
 <itunes:subtitle>曹润</itunes:subtitle>
-<itunes:keywords>
-曹润，caorun，播客
-</itunes:keywords>
+<itunes:keywords>曹润，caorun，播客</itunes:keywords>
 <image>
 <title>曹润</title>
 <url>
