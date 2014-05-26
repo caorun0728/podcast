@@ -4,24 +4,32 @@
 <itunes:new-feed-url>http://podcast.caorun.net/caorun.rss</itunes:new-feed-url>
 <title>曹润</title>
 <link>http://caorun.net</link>
-<description>曹润（caorun.net）官方播客！</description>
-<lastBuildDate>Fri, 15 Nov 2013 12:49:30 +0800</lastBuildDate>
 <language>zh-cn</language>
-<sy:updateFrequency>1</sy:updateFrequency>
-<generator>dj-podcaster</generator>
-<itunes:summary>
-[曹润]caorun.net、微信号：cao_run、投稿（反馈）邮箱:i@caorun.net.cn
-</itunes:summary>
+<copyright>www.caorun.net</copyright>
+<itunes:subtitle>曹润</itunes:subtitle>
 <itunes:author>曹润</itunes:author>
-<itunes:explicit>clean</itunes:explicit>
-<itunes:image href="http://podcast.caorun.net/photo/cr001.jpg"/>
+<itunes:summary>
+[曹润]，个人podcast，这里都一些闲聊和八卦！官网：caorun.net、微信号(wechat)：cao_run。
+</itunes:summary>
+<description>曹润（caorun.net）官方播客！</description>
 <itunes:owner>
 <itunes:name>曹润(caorun.net)</itunes:name>
 <itunes:email>i@caorun.net.cn</itunes:email>
 </itunes:owner>
+<itunes:image href="http://podcast.caorun.net/photo/cr001.jpg"/>
+<itunes:category text="Arts">
+ 			<itunes:category text="Literature" />
+ 			</itunes:category>
+ 			<itunes:category text="TV &amp; Film">
+
+<lastBuildDate>Fri, 15 Nov 2013 12:49:30 +0800</lastBuildDate>
+<generator>dj-podcaster</generator>
+
+<itunes:explicit>clean</itunes:explicit>
+
+
 <managingEditor>caorun@hotmail.com (曹润)</managingEditor>
-<copyright>www.caorun.net</copyright>
-<itunes:subtitle>曹润</itunes:subtitle>
+
 <itunes:keywords>
 曹润，caorun，播客
 </itunes:keywords>
@@ -32,11 +40,6 @@ http://podcast.caorun.net/photo/cr001.jpg
 </url>
 <link>http://caorun.net</link>
 </image>
-<itunes:category text="Arts">
- 			<itunes:category text="Literature" />
- 			</itunes:category>
- 			<itunes:category text="TV &amp; Film">
- 			</itunes:category>
 
 <rawvoice:location>ChengDu, China PR</rawvoice:location>
 <!--
