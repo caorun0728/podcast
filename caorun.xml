@@ -21,10 +21,9 @@
  			<itunes:category text="Literature" />
  			</itunes:category>
  			<itunes:category text="TV &amp; Film">
-
 <item>
-
-<title>第二期：游梦街宣传片</title>
+<!-- 节目信息 -->
+<title>第二期：游梦街宣传片(video)</title>
 
 <itunes:author>曹润</itunes:author>
 
@@ -47,27 +46,27 @@
 
 <item>
 <title>第一期：青春的起点</title>
-<pubDate>Fri, 15 Nov 2013 05:03:35 +0000</pubDate>
-<itunes:duration>0:07:52</itunes:duration>
-<guid isPermaLink="false">
-http://podcast.caorun.net/audio/cr001.mp3
-</guid>
-<description>
-<![CDATA[
-青春的回忆@天湖-声音的精灵 主播。
-]]>
-</description>
-<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
-<slash:comments>0</slash:comments>
-<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
-<enclosure url="http://podcast.caorun.net/audio/001.mp3" length="80293108" type="audio/mpeg"/>
+
+<itunes:author>www.caorun.net</itunes:author>
+
 <itunes:subtitle>
 青春的回忆@天湖-声音的精灵 微信公众账号：cao_run
 </itunes:subtitle>
+
 <itunes:summary>
 青春的回忆@天湖-声音的精灵 微信公众账号：cao_run
 </itunes:summary>
-<itunes:author>www.caorun.net</itunes:author>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<enclosure url="http://podcast.caorun.net/audio/001.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid>http://podcast.caorun.net/audio/cr001.mp3</guid>
+
+<pubDate>Fri, 15 Nov 2013 05:03:35 +0000</pubDate>
+
+<itunes:duration>0:07:52</itunes:duration>
+
 <itunes:explicit>clean</itunes:explicit>
 </item>
 </channel>
