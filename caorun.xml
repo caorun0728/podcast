@@ -3,7 +3,6 @@
 <channel>
 <itunes:new-feed-url>http://podcast.caorun.net/caorun.rss</itunes:new-feed-url>
 <title>曹润</title>
-<atom:link href="http://podcast.caorun.net/caorun.xml" rel="self" type="application/rss+xml"/>
 <link>http://caorun.net</link>
 <description>曹润（caorun.net）官方播客！</description>
 <lastBuildDate>Fri, 15 Nov 2013 12:49:30 +0800</lastBuildDate>
