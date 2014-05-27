@@ -1,0 +1,186 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+<channel>
+<itunes:new-feed-url>http://podcast.caorun.net/caorun.xml</itunes:new-feed-url>
+<title>曹润</title>
+<atom:link href="http://podcast.caorun.net/caorun.xml" rel="self" type="application/rss+xml"/>
+<link>http://caorun.net</link>
+<description>曹润（caorun.net）官方播客！</description>
+<lastBuildDate>Mon, 26 May 2014 12:49:30 +0800</lastBuildDate>
+<language>zh-cn</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>dj-podcaster</generator>
+<itunes:summary>
+[曹润]caorun.net、微信号：cao_run、投稿（反馈）邮箱:i@caorun.net.cn
+</itunes:summary>
+<itunes:author>曹润</itunes:author>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="http://podcast.caorun.net/photo/cr001.jpg"/>
+<itunes:owner>
+<itunes:name>曹润</itunes:name>
+<itunes:email>i@caorun.net.cn</itunes:email>
+</itunes:owner>
+<managingEditor>caorun@hotmail.com (曹润)</managingEditor>
+<copyright>www.caorun.net</copyright>
+<itunes:subtitle>曹润</itunes:subtitle>
+<itunes:keywords>曹润，caorun，播客</itunes:keywords>
+<image>
+<title>曹润</title>
+<url>
+http://podcast.caorun.net/photo/cr001.jpg
+</url>
+<link>http://caorun.net</link>
+</image>
+<itunes:category text="Music" />
+<itunes:category text="Society &amp; Culture" />
+<itunes:category text="Games &amp; Hobbies">
+	<itunes:category text="Video Games" />
+</itunes:category>
+<rawvoice:location>ChengDu, China PR</rawvoice:location>
+<!--
+rawvoice:frequency>Weekly</rawvoice:frequency
+-->
+
+<item>
+<title>《风水传》第3集</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:subtitle>
+
+<itunes:summary>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<enclosure url="http://youmengjie.u.qiniudn.com/fsz3.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid isPermaLink="false">http://youmengjie.u.qiniudn.com/fsz3.mp3</guid>
+
+<pubDate>Tue, 27 May 2014 12:00:00 +0000</pubDate>
+
+<itunes:duration>00:20:01</itunes:duration>
+
+<description><![CDATA[
+小说《风水传》有声读物，第2集由小小鸟播音！
+]]></description>
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<item>
+<title>《风水传》第2集</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:subtitle>
+
+<itunes:summary>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<enclosure url="http://youmengjie.u.qiniudn.com/fsz2.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid isPermaLink="false">http://youmengjie.u.qiniudn.com/fsz2.mp3</guid>
+
+<pubDate>Tue, 27 May 2014 12:00:00 +0000</pubDate>
+
+<itunes:duration>00:20:29</itunes:duration>
+
+<description><![CDATA[
+小说《风水传》有声读物，第2集由小小鸟播音！
+]]></description>
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<item>
+<title>《风水传》第1集</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>小说《风水传》有声读物，第一集由小小鸟播音！</itunes:subtitle>
+
+<itunes:summary>小说《风水传》有声读物，第一集由小小鸟播音！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<enclosure url="http://xiazai.u.qiniudn.com/1集.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid isPermaLink="false">http://xiazai.u.qiniudn.com/1集.mp3</guid>
+
+<pubDate>Mon, 26 May 2014 12:00:00 +0000</pubDate>
+
+<itunes:duration>00:20:55</itunes:duration>
+
+<description><![CDATA[
+小说《风水传》有声读物，第一集由小小鸟播音！
+]]></description>
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>第二期：游梦街宣传片</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>给你们一个世界，给自己一个测试！</itunes:subtitle>
+
+<itunes:summary>很早之前的视频，作为片头，也作为宣传片！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://xiazai.u.qiniudn.com/caorunnet.mp4" length="8727310" type="video/mp4" />
+
+<guid>http://xiazai.u.qiniudn.com/caorunnet.mp4</guid>
+
+<pubDate>Sun, 25 May 2014 12:00:00 +0000</pubDate>
+
+<itunes:duration>00:14:00</itunes:duration>
+
+</item>
+
+
+<item>
+<title>第一期：青春的起点</title>
+<pubDate>Fri, 15 Nov 2013 05:03:35 +0000</pubDate>
+<itunes:duration>0:07:52</itunes:duration>
+<guid isPermaLink="false">
+http://podcast.caorun.net/audio/cr001.mp3
+</guid>
+<description>
+<![CDATA[
+青春的回忆@天湖-声音的精灵 主播。
+]]>
+</description>
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+<enclosure url="http://podcast.caorun.net/audio/001.mp3" length="80293108" type="audio/mpeg"/>
+<itunes:subtitle>
+青春的回忆@天湖-声音的精灵 微信公众账号：cao_run
+</itunes:subtitle>
+<itunes:summary>
+青春的回忆@天湖-声音的精灵 微信公众账号：cao_run
+</itunes:summary>
+<itunes:author>www.caorun.net</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+</channel>
+</rss>
