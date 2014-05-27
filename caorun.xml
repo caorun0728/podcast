@@ -39,8 +39,71 @@ http://podcast.caorun.net/photo/cr001.jpg
 <!--
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
+
 <item>
-<title>《风水传》第一集</title>
+<title>《风水传》第3集</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:subtitle>
+
+<itunes:summary>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<enclosure url="http://youmengjie.u.qiniudn.com/fsz3.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid isPermaLink="false">http://youmengjie.u.qiniudn.com/fsz3.mp3</guid>
+
+<pubDate>Tue, 27 May 2014 12:00:00 +0000</pubDate>
+
+<itunes:duration>00:20:01</itunes:duration>
+
+<description><![CDATA[
+小说《风水传》有声读物，第2集由小小鸟播音！
+]]></description>
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<item>
+<title>《风水传》第2集</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:subtitle>
+
+<itunes:summary>小说《风水传》有声读物，第2集由小小鸟播音！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<enclosure url="http://youmengjie.u.qiniudn.com/fsz2.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid isPermaLink="false">http://youmengjie.u.qiniudn.com/fsz2.mp3</guid>
+
+<pubDate>Tue, 27 May 2014 12:00:00 +0000</pubDate>
+
+<itunes:duration>00:20:29</itunes:duration>
+
+<description><![CDATA[
+小说《风水传》有声读物，第2集由小小鸟播音！
+]]></description>
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<item>
+<title>《风水传》第1集</title>
 
 <itunes:author>曹润</itunes:author>
 
@@ -54,7 +117,7 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 
 <guid isPermaLink="false">http://xiazai.u.qiniudn.com/1集.mp3</guid>
 
-<pubDate>Mon, May 2014 12:00:00 +0800</pubDate>
+<pubDate>Mon, 26 May 2014 12:00:00 +0000</pubDate>
 
 <itunes:duration>00:20:55</itunes:duration>
 
@@ -86,7 +149,7 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 
 <guid>http://xiazai.u.qiniudn.com/caorunnet.mp4</guid>
 
-<pubDate>Sun, 25 May 2014 12:00:00 +0800</pubDate>
+<pubDate>Sun, 25 May 2014 12:00:00 +0000</pubDate>
 
 <itunes:duration>00:14:00</itunes:duration>
 
