@@ -41,33 +41,24 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 -->
 
 <item>
-<title>《风水传》第9集</title>
+
+<title>第三期：生活</title>
 
 <itunes:author>曹润</itunes:author>
 
-<itunes:subtitle>小说《风水传》有声读物，第9集由小小鸟播音！免费视听！</itunes:subtitle>
+<itunes:subtitle>生活就像快镜头</itunes:subtitle>
 
-<itunes:summary>小说《风水传》有声读物，第9集由小小鸟播音！</itunes:summary>
+<itunes:summary>生活就像快镜头！</itunes:summary>
 
-<itunes:image href="http://git.oschina.net/caorun/download/raw/master/podcast/img/fsz.jpg"/>
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
 
-<enclosure url="http://youmengjie.u.qiniudn.com/009.mp3" length="80293108" type="audio/mpeg"/>
+<enclosure url="http://git.oschina.net/caorun/download/raw/master/podcast/video/IMG_4621.mov" length="8727310" type="video/mp4" />
 
-<guid isPermaLink="false">http://youmengjie.u.qiniudn.com/009.mp3</guid>
+<guid>http://git.oschina.net/caorun/download/raw/master/podcast/video/IMG_4621.mov</guid>
 
-<pubDate>Thu, 29 May 2014 14:00:00 +0000</pubDate>
+<pubDate>Sun, 21 Dec 2014 12:00:00 +0000</pubDate>
 
-<itunes:duration>00:20:17</itunes:duration>
-
-<description><![CDATA[
-小说《风水传》有声读物，第9集由小小鸟播音！
-]]></description>
-
-<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
-
-<slash:comments>0</slash:comments>
-
-<itunes:explicit>no</itunes:explicit>
+<itunes:duration>00:14:00</itunes:duration>
 
 </item>
 

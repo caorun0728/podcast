@@ -65,6 +65,30 @@ http://bcs.duapp.com/caorunfiles/003.mp3
 <itunes:explicit>yes</itunes:explicit>
 </item>
 
+
+<item>
+
+<title>第三期：生活</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>生活就像快镜头</itunes:subtitle>
+
+<itunes:summary>生活就像快镜头！</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://git.oschina.net/caorun/download/raw/master/podcast/video/IMG_4621.mov" length="8727310" type="video/mp4" />
+
+<guid>http://git.oschina.net/caorun/download/raw/master/podcast/video/IMG_4621.mov</guid>
+
+<pubDate>Sun, 21 Dec 2014 12:00:00 +0000</pubDate>
+
+<itunes:duration>00:14:00</itunes:duration>
+
+</item>
+
+
 <item>
 <title>第二期：青春的记忆</title>
 <pubDate>Wed, 20 Nov 2013 05:03:35 +0000</pubDate>
