@@ -1,7 +1,7 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
 <channel>
 <title>游梦街</title>
-<atom:link href="http://caorun.net/radio/dreamstreet.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://podcast.caorun.net/dreamstreet.xml" rel="self" type="application/rss+xml"/>
 <link>http://caorun.net</link>
 <description>游梦街，属于你心灵的声音！</description>
 <lastBuildDate>Fri, 15 Nov 2013 12:49:30 +0800</lastBuildDate>
@@ -14,7 +14,7 @@
 </itunes:summary>
 <itunes:author>曹润</itunes:author>
 <itunes:explicit>clean</itunes:explicit>
-<itunes:image href="http://caorun.net/radio/photo/001.jpg"/>
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
 <itunes:owner>
 <itunes:name>游梦街(caorun.net)</itunes:name>
 <itunes:email>i@caorun.net.cn</itunes:email>
@@ -53,7 +53,7 @@ http://bcs.duapp.com/caorunfiles/003.mp3
 </description>
 <wfw:commentRss>http://caorun.net/radio/dreamstreet.xml</wfw:commentRss>
 <slash:comments>0</slash:comments>
-<itunes:image href="http://caorun.net/radio/photo/001.jpg"/>
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
 <enclosure url="http://bcs.duapp.com/caorunfiles/003.mp3" length="80293108" type="audio/mpeg"/>
 <itunes:subtitle>
 青春往事，一个属于记忆的年代@天湖-声音的精灵 微信公众账号：cao_run
@@ -103,8 +103,8 @@ http://caorun.net/radio/audio/cr001.mp3
 </description>
 <wfw:commentRss>http://caorun.net/radio/dreamstreet.xml</wfw:commentRss>
 <slash:comments>0</slash:comments>
-<itunes:image href="http://caorun.net/radio/photo/001.jpg"/>
-<enclosure url="http://caorun.net/radio/audio/cr001.mp3" length="80293108" type="audio/mpeg"/>
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+<enclosure url="http://podcast.caorun.net/audio/cr001.mp3" length="80293108" type="audio/mpeg"/>
 <itunes:subtitle>
 青春的记忆@天湖-声音的精灵 微信公众账号：cao_run
 </itunes:subtitle>
@@ -129,8 +129,8 @@ http://caorun.net/radio/audio/001.mp3
 </description>
 <wfw:commentRss>http://caorun.net/radio/dreamstreet.xml</wfw:commentRss>
 <slash:comments>0</slash:comments>
-<itunes:image href="http://caorun.net/radio/photo/001.jpg"/>
-<enclosure url="http://caorun.net/radio/audio/001.mp3" length="80293108" type="audio/mpeg"/>
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+<enclosure url="http://podcast.caorun.net/audio/001.mp3" length="80293108" type="audio/mpeg"/>
 <itunes:subtitle>
 冬去春来@天湖-声音的精灵 微信公众账号：cao_run
 </itunes:subtitle>
