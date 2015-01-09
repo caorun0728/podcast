@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
 <channel>
 <title>游梦街</title>
 <atom:link href="http://podcast.caorun.net/dreamstreet.xml" rel="self" type="application/rss+xml"/>
 <link>http://caorun.net</link>
 <description>游梦街，属于你心灵的声音！</description>
-<lastBuildDate>Fri, 15 Nov 2013 12:49:30 +0800</lastBuildDate>
+<lastBuildDate>Thu, 8 Jan 2015 00:00:00 +0800</lastBuildDate>
 <language>zh-CN</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -29,42 +28,18 @@
 <image>
 <title>游梦街</title>
 <url>
-http://caorun.net/radio/photo/001.jpg
+http://podcast.caorun.net/photo/001.jpg
 </url>
 <link>http://caorun.net</link>
 </image>
 <itunes:category text="Society &amp; Culture">
  			<itunes:category text="Literature" />
   			</itunes:category>
-<rawvoice:location>Beijing, China PR</rawvoice:location>
+<rawvoice:location>ChengDu, China PR</rawvoice:location>
 <!--
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
-<item>
-<title>第三期：青春往事</title>
-<pubDate>Wed, 20 Nov 2013 20:10:35 +0800</pubDate>
-<itunes:duration>0:07:52</itunes:duration>
-<guid isPermaLink="false">
-http://bcs.duapp.com/caorunfiles/003.mp3
-</guid>
-<description>
-<![CDATA[
-青春往事@天湖-声音的精灵 主播。
-]]>
-</description>
-<wfw:commentRss>http://caorun.net/radio/dreamstreet.xml</wfw:commentRss>
-<slash:comments>0</slash:comments>
-<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
-<enclosure url="http://bcs.duapp.com/caorunfiles/003.mp3" length="80293108" type="audio/mpeg"/>
-<itunes:subtitle>
-青春往事，一个属于记忆的年代@天湖-声音的精灵 微信公众账号：cao_run
-</itunes:subtitle>
-<itunes:summary>
-青春往事，一个属于记忆的年代@天湖-声音的精灵 微信公众账号：cao_run
-</itunes:summary>
-<itunes:author>www.caorun.net</itunes:author>
-<itunes:explicit>yes</itunes:explicit>
-</item>
+
 
 
 <item>
@@ -91,55 +66,69 @@ http://bcs.duapp.com/caorunfiles/003.mp3
 
 
 <item>
+
 <title>第二期：青春的记忆</title>
-<pubDate>Wed, 20 Nov 2013 05:03:35 +0000</pubDate>
-<itunes:duration>0:02:38</itunes:duration>
-<guid isPermaLink="false">
-http://caorun.net/radio/audio/cr001.mp3
-</guid>
-<description>
-<![CDATA[
-青春的记忆@天湖-声音的精灵 主播。
-]]>
-</description>
-<wfw:commentRss>http://caorun.net/radio/dreamstreet.xml</wfw:commentRss>
-<slash:comments>0</slash:comments>
-<itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>青春的记忆@天湖-声音的精灵 微信公众账号：cao_run</itunes:subtitle>
+
+<itunes:summary>青春的记忆@天湖-声音的精灵 微信公众账号：cao_run</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
 <enclosure url="http://podcast.caorun.net/audio/cr001.mp3" length="80293108" type="audio/mpeg"/>
-<itunes:subtitle>
-青春的记忆@天湖-声音的精灵 微信公众账号：cao_run
-</itunes:subtitle>
-<itunes:summary>
-青春的记忆@天湖-声音的精灵 微信公众账号：cao_run
-</itunes:summary>
-<itunes:author>www.caorun.net</itunes:author>
+
+<guid>http://podcast.caorun.net/audio/cr001.mp3</guid>
+
+<pubDate>Wed, 20 Nov 2013 05:03:35 +0000</pubDate>
+
+<itunes:duration>0:02:38</itunes:duration>
+
+<description><![CDATA[
+青春的记忆@天湖-声音的精灵 主播。
+]]></description>
+<wfw:commentRss>http://podcast.caorun.net/dreamstreet.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
 <itunes:explicit>clean</itunes:explicit>
+
 </item>
 
 <item>
+
 <title>第一期：冬去春来</title>
+
+<itunes:author>曹润</itunes:author>
+
 <pubDate>Fri, 15 Nov 2013 05:03:35 +0000</pubDate>
+
 <itunes:duration>0:07:52</itunes:duration>
-<guid isPermaLink="false">
-http://caorun.net/radio/audio/001.mp3
-</guid>
+
+<guid>http://podcast.caorun.net/audio/001.mp3</guid>
+
 <description>
 <![CDATA[
 冬去春来@天湖-声音的精灵 主播。
 ]]>
 </description>
-<wfw:commentRss>http://caorun.net/radio/dreamstreet.xml</wfw:commentRss>
+
+<wfw:commentRss>http://podcast.caorun.net/dreamstreet.xml</wfw:commentRss>
+
 <slash:comments>0</slash:comments>
+
 <itunes:image href="http://podcast.caorun.net/photo/001.jpg"/>
+
 <enclosure url="http://podcast.caorun.net/audio/001.mp3" length="80293108" type="audio/mpeg"/>
-<itunes:subtitle>
-冬去春来@天湖-声音的精灵 微信公众账号：cao_run
-</itunes:subtitle>
-<itunes:summary>
-冬去春来@天湖-声音的精灵 微信公众账号：cao_run
-</itunes:summary>
-<itunes:author>www.caorun.net</itunes:author>
+
+<itunes:subtitle>冬去春来@天湖-声音的精灵 微信公众账号：cao_run</itunes:subtitle>
+
+<itunes:summary>冬去春来@天湖-声音的精灵 微信公众账号：cao_run</itunes:summary>
+
 <itunes:explicit>clean</itunes:explicit>
+
 </item>
+
 </channel>
 </rss>
