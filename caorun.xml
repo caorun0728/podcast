@@ -42,6 +42,41 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 
 <item>
 
+<title>004：Too Long</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>微信公众账号：cao_run</itunes:subtitle>
+
+<itunes:summary>很早之前做的曲子，留存一下。</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://cdn.lizhi.fm/audio/2015/01/26/17528710516316294_hd.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid>http://cdn.lizhi.fm/audio/2015/01/26/17528710516316294_hd.mp3</guid>
+
+<pubDate>Mon, 26 Jan 2015 05:03:35 +0000</pubDate>
+
+<itunes:duration>0:01:38</itunes:duration>
+
+<description><![CDATA[
+呵呵呵
+]]></description>
+
+
+<wfw:commentRss>http://podcast.caorun.net/dreamstreet.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
+
+
+<item>
+
 <title>第三期：生活</title>
 
 <itunes:author>曹润</itunes:author>
