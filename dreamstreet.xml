@@ -9,8 +9,8 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>dj-podcaster</generator>
-<itunes:summary>
-[游梦街]电台，是2012年初期建设起来的闲聊播客节目，各种聊，各种说。官网：caorun.net、微信号：cao_run、投稿邮箱:i@caorun.net.cn
+<itunes:summary><![CDATA[
+[<a href="http://caorun.net" target="_blank">游梦街</a></a>]]>]电台，是2012年初期建设起来的闲聊播客节目，各种聊，各种说。官网：caorun.net、微信号：cao_run、投稿邮箱:i@caorun.net.cn
 </itunes:summary>
 <itunes:author>曹润</itunes:author>
 <itunes:explicit>clean</itunes:explicit>
