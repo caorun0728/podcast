@@ -22,9 +22,7 @@
 <managingEditor>caorun@hotmail.com (曹润)</managingEditor>
 <copyright>www.caorun.net</copyright>
 <itunes:subtitle>游梦街网络电台</itunes:subtitle>
-<itunes:keywords>
-游梦街，曹润，网络电台
-</itunes:keywords>
+<itunes:keywords>游梦街，曹润，网络电台</itunes:keywords>
 <image>
 <title>游梦街</title>
 <url>
@@ -49,7 +47,7 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 
 <itunes:subtitle>杂音，生活。</itunes:subtitle>
 
-<itunes:summary><![CDATA[<a href="https://itunes.apple.com/cn/podcast/cao-run/id760050890?at=10lQUc?l=zh">曹润</a>制作。]]</itunes:summary>
+<itunes:summary>曹润制作。</itunes:summary>
 
 <itunes:image href="http://ww1.sinaimg.cn/mw1024/3d98cfd9jw1enh7ul0580j21kw16ots9.jpg" />
 
@@ -60,10 +58,6 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
 
 <itunes:duration>0:00:27</itunes:duration>
-
-<description><![CDATA[
-生活中的杂音
-]]></description>
 <wfw:commentRss>http://podcast.caorun.net/dreamstreet.xml</wfw:commentRss>
 
 <slash:comments>0</slash:comments>
@@ -119,8 +113,10 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 <itunes:duration>0:02:38</itunes:duration>
 
 <description><![CDATA[
-青春的记忆@天湖-声音的精灵 主播。
+青春的记忆@天湖
 ]]></description>
+
+
 <wfw:commentRss>http://podcast.caorun.net/dreamstreet.xml</wfw:commentRss>
 
 <slash:comments>0</slash:comments>
