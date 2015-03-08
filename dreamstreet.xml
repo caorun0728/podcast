@@ -40,6 +40,42 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 
 
 
+
+
+<item>
+
+<title>006：「轨迹」</title>
+
+<itunes:author>网络歌手</itunes:author>
+
+<itunes:subtitle>微信公众账号：cao_run</itunes:subtitle>
+
+<itunes:summary>挺喜欢这个女声的，所以发出来分享一下。</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://cdn.lizhi.fm/audio/2015/03/08/18474507411810054_hd.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid>http://cdn.lizhi.fm/audio/2015/03/08/18474507411810054_hd.mp3</guid>
+
+<pubDate>Sun, 08 Mar 2015 08:00:00 +0000</pubDate>
+
+<itunes:duration>0:05:49</itunes:duration>
+
+<description><![CDATA[
+呵呵呵
+]]></description>
+
+
+<wfw:commentRss>http://podcast.caorun.net/dreamstreet.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
+
 <item>
 
 <title>005：Too Long</title>
