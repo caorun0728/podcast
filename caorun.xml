@@ -42,6 +42,41 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 
 <item>
 
+<title>005：游梦街2015年广告第一版 预览版</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>微信公众账号：cao_run</itunes:subtitle>
+
+<itunes:summary>感谢兄弟的配音。</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://cdn.lizhi.fm/audio/2015/04/27/19637956070519430_hd.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid>http://cdn.lizhi.fm/audio/2015/04/27/19637956070519430_hd.mp3</guid>
+
+<pubDate>Mon, 27 Mar 2015 05:03:35 +0000</pubDate>
+
+<itunes:duration>0:00:57</itunes:duration>
+
+<description><![CDATA[
+呵呵呵
+]]></description>
+
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
+
+
+<item>
+
 <title>004：Too Long</title>
 
 <itunes:author>曹润</itunes:author>
@@ -65,7 +100,7 @@ rawvoice:frequency>Weekly</rawvoice:frequency
 ]]></description>
 
 
-<wfw:commentRss>http://podcast.caorun.net/dreamstreet.xml</wfw:commentRss>
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
 
 <slash:comments>0</slash:comments>
 
