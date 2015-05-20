@@ -40,6 +40,74 @@ http://podcast.caorun.net/photo/cr001.jpg
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
 
+
+<item>
+
+<title>2015年05月20日：随性曲子</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>微信公众账号：cao_run</itunes:subtitle>
+
+<itunes:summary>很久以前自己做的曲子。。</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://cdn.lizhi.fm/audio/2015/05/20/20167442591804550_hd.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid>http://cdn.lizhi.fm/audio/2015/05/20/20167442591804550_hd.mp3</guid>
+
+<pubDate>Wed, 20 May 2015 05:03:35 +0000</pubDate>
+
+<itunes:duration>0:00:57</itunes:duration>
+
+<description><![CDATA[
+www.caorun.net
+]]></description>
+
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
+
+<item>
+
+<title>2015年05月20日：七月花瓣</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>微信公众账号：cao_run</itunes:subtitle>
+
+<itunes:summary>很久以前自己做的曲子。。</itunes:summary>
+
+<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+
+<enclosure url="http://cdn.lizhi.fm/audio/2015/05/20/20167414137646086_hd.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid>http://cdn.lizhi.fm/audio/2015/05/20/20167414137646086_hd.mp3</guid>
+
+<pubDate>Wed, 20 May 2015 05:03:35 +0000</pubDate>
+
+<itunes:duration>0:00:57</itunes:duration>
+
+<description><![CDATA[
+www.caorun.net
+]]></description>
+
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
 <item>
 
 <title>005：游梦街2015年广告第一版 预览版</title>
