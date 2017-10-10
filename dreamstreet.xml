@@ -38,6 +38,39 @@ http://podcast.caorun.net/photo/001.jpg
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
 
+<item>
+
+<title>Some Sound</title>
+
+<itunes:author>曹润</itunes:author>
+
+<itunes:subtitle>Muisc for me</itunes:subtitle>
+
+<itunes:summary>很久之前随性乱弄的曲子。</itunes:summary>
+
+<itunes:image href="http://ww1.sinaimg.cn/large/3d98cfd9gy1fkd4a10t8vj20rs0rsqa3.jpg" />
+
+<enclosure url="http://cdn5.lizhi.fm/audio/2017/10/10/2629347984388308486_hd.mp3" length="80293108" type="audio/mpeg"/>
+
+<guid>http://cdn5.lizhi.fm/audio/2017/10/10/2629347984388308486_hd.mp3</guid>
+
+<pubDate>Tue, 10 Oct 2017 14:03:35 +0800</pubDate>
+
+<itunes:duration>0:04:35</itunes:duration>
+
+<description><![CDATA[
+www.caorun.net
+]]></description>
+
+
+<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
 
 <item>
 
