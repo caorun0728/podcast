@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>无忧电台</title>
+
+<link>http://www.caorun.net</link>
+
+<language>zh-CN</language>
+
+<copyright>&#x2117; &amp; &#xA9; 2014 李迎迎 &amp; 家族</copyright>
+
+<itunes:subtitle>一场包罗万象的脱口秀</itunes:subtitle>
+
+<itunes:author>李迎迎</itunes:author>
+
+<itunes:summary>《包罗万象》是一场涵盖一切话题的脱口秀。我们每周都会深入讨论人类已知的任一主题，一起畅所欲言。请从播客 app 或 iTunes Store 里查找我们的播客。</itunes:summary>
+
+<description>《包罗万象》是一场涵盖一切话题的脱口秀。我们每周都会深入讨论人类已知的任一主题，一起畅所欲言。请从播客 app 或 iTunes Store 里查找我们的播客。</description>
+
+<itunes:owner>
+
+<itunes:name>李迎迎</itunes:name>
+
+<itunes:email>liyingying770@icloud.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://example.com/podcasts/everything/AllAbout Everything.jpg" />
+
+<itunes:category text="Technology">
+
+<itunes:category text="Gadgets"/>
+
+</itunes:category>
+
+<itunes:category text="TV &amp; Film"/>
+
+<item>
+
+<title>摇动你的调味瓶</title>
+
+<itunes:author>李迎迎</itunes:author>
+
+<itunes:subtitle>餐桌调味料初探</itunes:subtitle>
+
+<itunes:summary><![CDATA[这周我们来谈谈 <a href="https://itunes/apple.com/us/book/antique-trader-salt-pepper/id429691295?mt=11">食盐与胡椒的混合</a>，并将其与建筑中的倒率、材料与整体美学进行类比。欢迎加入我们的讨论！]]</itunes:summary>
+
+<itunes:image href="http://example.com/podcasts/everything/AllAbout Everything/Episode1.jpg" />
+
+<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a" length="8727310" type="audio/x-m4a" />
+
+<guid>http://example.com/podcasts/archive/aae20140615.m4a</guid>
+
+<pubDate>Wed, 15 Jun 2014 19:00:00 GMT</pubDate>
+
+<itunes:duration>7:04</itunes:duration>
+
+</item>
+
+<item>
+
+<title>套筒扳手大比拼</title>
+
+<itunes:author>梁满恒</itunes:author>
+
+<itunes:subtitle>比较各式套筒扳手，乐趣无穷！</itunes:subtitle>
+
+<itunes:summary>这周我们来聊聊公制套筒扳手与旧式英制套筒扳手的区别。哪一款更好用？你需要配备两款吗？这里我们为你一一解答。</itunes:summary>
+
+<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg" />
+
+<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp3" length="5650889" type="audio/mpeg" />
+
+<guid>http://example.com/podcasts/archive/aae20140608.mp3</guid>
+
+<pubDate>Wed, 8 Jun 2014 19:00:00 GMT<pubDate>
+
+<itunes:duration>4:34</itunes:duration>
+
+</item>
+
+<item>
+
+<title>红、白 &amp; 蓝</title>
+
+<itunes:author>多个作者</itunes:author>
+
+<itunes:subtitle>红 + 蓝 != 紫</itunes:subtitle>
+
+<itunes:summary>这周我们来谈谈颜色与性格，如果你是一个蓝色性格的人，你该如何在红色的状态下生活？或反过来又会怎样？</itunes:summary>
+
+<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode3.jpg" />
+
+<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode1.mp3" length="498537" type="audio/mpeg" />
+
+<guid>http://example.com/podcasts/archive/aae20140601.mp3</guid>
+
+<pubDate>Wed, 1 Jun 2014 19:00:00 GMT</pubDate>
+
+<itunes:duration>3:59</itunes:duration>
+
+</item>
+
+</channel>
+
+</rss>
