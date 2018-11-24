@@ -3,8 +3,8 @@
 <title>曹润</title>
 <atom:link href="http://podcast.caorun.net/caorun.xml" rel="self" type="application/rss+xml"/>
 <link>http://caorun.net</link>
-<description>LEo官方播客！</description>
-<lastBuildDate>Mon, 26 May 2018 12:49:30 +0800</lastBuildDate>
+<description>曹润（caorun.net）官方播客！</description>
+<lastBuildDate>Mon, 26 May 2014 12:49:30 +0800</lastBuildDate>
 <language>zh-cn</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -17,12 +17,12 @@
 <itunes:image href="http://podcast.caorun.net/photo/cr001.jpg"/>
 <itunes:owner>
 <itunes:name>曹润</itunes:name>
-<itunes:email>i@caorun.net</itunes:email>
+<itunes:email>i@caorun.cn</itunes:email>
 </itunes:owner>
 <managingEditor>caorun@hotmail.com (曹润)</managingEditor>
 <copyright>www.caorun.net</copyright>
 <itunes:subtitle>曹润</itunes:subtitle>
-<itunes:keywords>曹润，Leo，播客,无忧电台</itunes:keywords>
+<itunes:keywords>曹润，caorun，播客</itunes:keywords>
 <image>
 <title>曹润</title>
 <url>
@@ -40,7 +40,7 @@ http://podcast.caorun.net/photo/cr001.jpg
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
 
-<!--item>
+<item>
 
 <title>Some Sound</title>
 
@@ -71,10 +71,10 @@ www.caorun.net
 
 <itunes:explicit>clean</itunes:explicit>
 
-</item-->
+</item>
 
 
-<!--item>
+<item>
 
 <title>2015年06月03日：游梦街2015年广告第二版 预览版</title>
 
@@ -105,7 +105,7 @@ www.caorun.net
 
 <itunes:explicit>clean</itunes:explicit>
 
-</item-->
+</item>
 
 
 <item>
@@ -175,7 +175,7 @@ www.caorun.net
 
 </item>
 
-<!--item>
+<item>
 
 <title>005：游梦街2015年广告第一版 预览版</title>
 
@@ -566,6 +566,6 @@ http://podcast.caorun.net/audio/cr001.mp3
 </itunes:summary>
 <itunes:author>www.caorun.net</itunes:author>
 <itunes:explicit>yes</itunes:explicit>
-</item-->
+</item>
 </channel>
 </rss>
