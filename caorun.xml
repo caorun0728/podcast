@@ -2,9 +2,9 @@
 <channel>
 <title>曹润</title>
 <atom:link href="http://podcast.caorun.net/caorun.xml" rel="self" type="application/rss+xml"/>
-<link>http://caorun.net</link>
+<link>https://www.cao.run</link>
 <description>LEo官方播客！</description>
-<lastBuildDate>Mon, 26 May 2018 12:49:30 +0800</lastBuildDate>
+<lastBuildDate>Wed, 11 Dec 2019 12:49:30 +0800</lastBuildDate>
 <language>zh-cn</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,21 +14,21 @@
 </itunes:summary>
 <itunes:author>曹润</itunes:author>
 <itunes:explicit>clean</itunes:explicit>
-<itunes:image href="http://podcast.caorun.net/photo/cr001.jpg"/>
+<itunes:image href="https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/photo/cr001.jpg"/>
 <itunes:owner>
 <itunes:name>曹润</itunes:name>
-<itunes:email>i@caorun.net</itunes:email>
+<itunes:email>caorun@qq.com</itunes:email>
 </itunes:owner>
 <managingEditor>caorun@hotmail.com (曹润)</managingEditor>
-<copyright>www.caorun.net</copyright>
+<copyright>www.cao.run</copyright>
 <itunes:subtitle>曹润</itunes:subtitle>
 <itunes:keywords>曹润，Leo，播客,无忧电台</itunes:keywords>
 <image>
 <title>曹润</title>
 <url>
-http://podcast.caorun.net/photo/cr001.jpg
+https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/photo/cr001.jpg
 </url>
-<link>http://caorun.net</link>
+<link>https://cao.run</link>
 </image>
 <itunes:category text="Arts">
 	<itunes:category text="Literature" />
@@ -116,11 +116,11 @@ www.caorun.net
 
 <itunes:summary>很久以前自己做的曲子。。</itunes:summary>
 
-<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+<itunes:image href="https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/photo/001.jpg" />
 
-<enclosure url="http://cdn.lizhi.fm/audio/2015/05/20/20167442591804550_hd.mp3" length="80293108" type="audio/mpeg"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/audio/sxqz.mp3" length="80293108" type="audio/mpeg"/>
 
-<guid>http://cdn.lizhi.fm/audio/2015/05/20/20167442591804550_hd.mp3</guid>
+<guid>https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/audio/sxqz.mp3</guid>
 
 <pubDate>Wed, 20 May 2015 05:03:35 +0000</pubDate>
 
@@ -150,11 +150,11 @@ www.caorun.net
 
 <itunes:summary>很久以前自己做的曲子。。</itunes:summary>
 
-<itunes:image href="http://podcast.caorun.net/photo/001.jpg" />
+<itunes:image href="https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/photo/001.jpg" />
 
-<enclosure url="http://cdn.lizhi.fm/audio/2015/05/20/20167414137646086_hd.mp3" length="80293108" type="audio/mpeg"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/audio/qyhb.mp3" length="80293108" type="audio/mpeg"/>
 
-<guid>http://cdn.lizhi.fm/audio/2015/05/20/20167414137646086_hd.mp3</guid>
+<guid>https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/audio/qyhb.mp3</guid>
 
 <pubDate>Wed, 20 May 2015 05:03:35 +0000</pubDate>
 
