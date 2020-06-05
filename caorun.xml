@@ -38,30 +38,28 @@ https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/photo/cr001.jpg
 rawvoice:frequency>Weekly</rawvoice:frequency
 -->
 
-<!--item>
+<item>
 
-<title>Some Sound</title>
+<title>Not bad</title>
 
-<itunes:author>曹润</itunes:author>
+<itunes:author>Leo</itunes:author>
 
-<itunes:subtitle>Muisc for me</itunes:subtitle>
+<itunes:subtitle>happy?unhappy?</itunes:subtitle>
 
-<itunes:summary>很久之前随性乱弄的曲子。</itunes:summary>
+<itunes:summary>不想写介绍</itunes:summary>
 
-<itunes:image href="http://ww1.sinaimg.cn/large/3d98cfd9gy1fkd4a10t8vj20rs0rsqa3.jpg" />
+<itunes:image href="https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/images/notbad.jpg" />
 
-<enclosure url="http://cdn5.lizhi.fm/audio/2017/10/10/2629347984388308486_hd.mp3" length="80293108" type="audio/mpeg"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/audio/tou.mp3" length="80293108" type="audio/mpeg"/>
 
-<guid>http://cdn5.lizhi.fm/audio/2017/10/10/2629347984388308486_hd.mp3</guid>
+<guid>https://cdn.jsdelivr.net/gh/caorun0728/podcast@gh-pages/audio/tou.mp3</guid>
 
-<pubDate>Tue, 10 Oct 2017 14:03:35 +0800</pubDate>
+<pubDate>Sat, 6 June 2020 07:53:35 +0800</pubDate>
 
-<itunes:duration>0:04:35</itunes:duration>
+<itunes:duration>0:01:35</itunes:duration>
 
 <description><![CDATA[
-www.caorun.net
-]]></description>
-
+www.cao.run]]></description>
 
 <wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
 
@@ -69,41 +67,7 @@ www.caorun.net
 
 <itunes:explicit>clean</itunes:explicit>
 
-</item-->
-
-
-<!--item>
-
-<title>2015年06月03日：游梦街2015年广告第二版 预览版</title>
-
-<itunes:author>曹润</itunes:author>
-
-<itunes:subtitle>微信公众账号：cao_run</itunes:subtitle>
-
-<itunes:summary>网站的广告第二个版本。预听版</itunes:summary>
-
-<itunes:image href="http://ww3.sinaimg.cn/large/3d98cfd9gw1esr2tpgbk9j20fl0fh41v.jpg" />
-
-<enclosure url="http://cdn5.lizhi.fm/audio/2015/06/03/20497024959800838_hd.mp3" length="80293108" type="audio/mpeg"/>
-
-<guid>http://cdn5.lizhi.fm/audio/2015/06/03/20497024959800838_hd.mp3</guid>
-
-<pubDate>Wed, 03 Jun 2015 05:03:35 +0000</pubDate>
-
-<itunes:duration>0:04:03</itunes:duration>
-
-<description><![CDATA[
-www.caorun.net
-]]></description>
-
-
-<wfw:commentRss>http://podcast.caorun.net/caorun.xml</wfw:commentRss>
-
-<slash:comments>0</slash:comments>
-
-<itunes:explicit>clean</itunes:explicit>
-
-</item-->
+</item>
 
 
 <item>
